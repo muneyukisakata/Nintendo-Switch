@@ -1,0 +1,1 @@
+Nintendo Switchの画面をWeb上で再現する
